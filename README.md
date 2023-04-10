@@ -2,7 +2,9 @@
 Computer as a Problem solving tool : Page 15, Exercises 1 - 3
 
 ## Exercise 1 (Length Conversion)
-Write a program that asks the user to enter a length in centimeters. If the user eneters a negative length, the program should tell the user that the entry is invalid. Otherwise, the program should convert the length to inches and print out the result. There are 2.54 centimeters in an inch.
+Write a program that asks the user to enter a length in centimeters. If the user enters a negative length, the program should tell the user that the entry is invalid. Otherwise, the program should convert the length to inches and print out the result. 
+
+There are 2.54 centimeters in an inch.
 
 ## Exercise 2 (Temperature Conversion)
 Write a program that asks the user for a temperature. Then asks them what units ( Celsius or Fahrenheit ) the temperature is in. Your program should convert thet temperature to the other unit.
